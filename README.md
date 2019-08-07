@@ -1,5 +1,5 @@
 # FAVORITES LIST 
-Simplistic and easy-to-use favorites feature for web & mobile apps.
+Simplistic and easy-to-use favorites feature using a custom modal for web & mobile apps.
 
 ### TECH
 - HTML / jQuery / javascript / CSS (SCSS)
