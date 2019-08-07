@@ -1,8 +1,7 @@
 # FAVORITES LIST 
-Simplistic and easy-to-use favorites feature.
+Simplistic and easy-to-use favorites feature for web & mobile apps.
 
 ### TECH
-- WordPress CMS
 - HTML / jQuery / javascript / CSS (SCSS)
 - Font Awesome
 
